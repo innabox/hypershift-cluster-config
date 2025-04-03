@@ -16,6 +16,7 @@ resources:
 - dns
 - metallb-config
 - fulfillment-aap
+- fulfillment-service
 
 - ../../bundles/external-secrets-clustersecretstore
 - ../../bundles/metallb
